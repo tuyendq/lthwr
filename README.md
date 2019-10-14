@@ -1,2 +1,1 @@
-# lthwr
-Learn the Hard Way - R
+# Learn the Hard Way - R
